@@ -1,3 +1,4 @@
+library(curl)
 if (!file.exists("data")) {
   dir.create("data")
 }
