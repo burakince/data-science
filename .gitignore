@@ -10,3 +10,6 @@
 
 # RStudio files
 .Rproj.user/
+
+# Jupyter Notebook files
+.ipynb_checkpoints
